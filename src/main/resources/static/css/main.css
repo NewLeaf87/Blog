@@ -1,0 +1,19 @@
+html {
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/015/056/116/large/matthew-d-solrock-sun.jpg?1546891111");
+    
+    background-color: rgb(250, 11, 11);
+    padding: 0.5em 1em;
+}
+
+h1,h2,h3,h4 {
+    display: block;
+}
+
+.card {
+    background-color: coral ;
+}
+
+nav {
+    font-family: fantasy;
+    
+}
